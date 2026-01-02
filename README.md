@@ -143,7 +143,6 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=giahuytruonn&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=giahuytruonn&show_icons=true&theme=dracula" height="150" />
 </div>
 
 ###
