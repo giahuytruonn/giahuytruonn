@@ -2,7 +2,7 @@
   "login": "giahuytruonn",
   "level": 8,
   "overall": "B",
-  "overallPercentile": 0.7801051661259464,
+  "overallPercentile": 0.780224095815442,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 242,
+      "value": 243,
       "rank": "B",
-      "percentile": 0.8475216566145295
+      "percentile": 0.8481474054230344
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 242
+      "value": 243
     },
     {
       "id": "unbroken",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 142
+      "value": 143
     },
     {
       "id": "daily-grinder",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-08T14:22:31.108Z"
+  "syncedAt": "2026-10-08T22:02:26.360Z"
 }
