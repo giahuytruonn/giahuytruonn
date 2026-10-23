@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 143
+      "value": 144
     },
     {
       "id": "daily-grinder",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-22",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-10-21",
         "cleared": 0,
@@ -268,5 +273,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-10-22T20:32:39.766Z"
+  "syncedAt": "2026-10-23T20:24:53.567Z"
 }
