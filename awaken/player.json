@@ -48,7 +48,15 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "escape-artist",
+      "from": "0",
+      "to": "1",
+      "at": "2026-10-24T19:28:10.443Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -158,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "boss-slayer",
@@ -167,8 +175,8 @@
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-23",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-10-22",
         "cleared": 0,
@@ -262,16 +275,16 @@
     "perfectDays": 0,
     "run": 0,
     "bestRun": 0,
-    "questsDone": 4,
+    "questsDone": 5,
     "bosses": [
       "2026-10-05"
     ],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "mp",
       "star"
     ]
   },
-  "syncedAt": "2026-10-23T20:24:53.567Z"
+  "syncedAt": "2026-10-24T19:28:10.443Z"
 }
