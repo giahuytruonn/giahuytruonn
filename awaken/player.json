@@ -81,7 +81,7 @@
     {
       "id": "unbroken",
       "tier": 2,
-      "value": 57
+      "value": 50
     },
     {
       "id": "night-owl",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 137
+      "value": 130
     },
     {
       "id": "daily-grinder",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-07",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-06",
         "cleared": 0,
@@ -356,5 +361,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-07T20:51:05.888Z"
+  "syncedAt": "2026-11-08T21:06:16.268Z"
 }
