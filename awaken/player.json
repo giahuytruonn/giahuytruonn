@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "weekend-warrior",
-      "from": "2",
-      "to": "3",
-      "at": "2026-11-01T21:10:00.854Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-09",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-07",
         "cleared": 0,
@@ -361,5 +358,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-08T21:06:16.268Z"
+  "syncedAt": "2026-11-10T00:40:25.157Z"
 }
