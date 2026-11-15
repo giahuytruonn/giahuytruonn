@@ -9,7 +9,7 @@
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "Weekend Warrior",
+  "title": "Berserker",
   "stats": [
     {
       "code": "STR",
@@ -81,7 +81,7 @@
     {
       "id": "unbroken",
       "tier": 2,
-      "value": 50
+      "value": 43
     },
     {
       "id": "night-owl",
@@ -95,8 +95,8 @@
     },
     {
       "id": "weekend-warrior",
-      "tier": 3,
-      "value": 45
+      "tier": 2,
+      "value": 44
     },
     {
       "id": "gate-opener",
@@ -151,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 131
+      "value": 124
     },
     {
       "id": "daily-grinder",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-14",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-13",
         "cleared": 0,
@@ -387,5 +392,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-14T21:25:25.397Z"
+  "syncedAt": "2026-11-15T21:43:54.548Z"
 }
