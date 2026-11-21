@@ -9,7 +9,7 @@
     "element": "Lightning",
     "from": "TypeScript"
   },
-  "title": "Berserker",
+  "title": "Weekend Warrior",
   "stats": [
     {
       "code": "STR",
@@ -48,7 +48,15 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "weekend-warrior",
+      "from": "2",
+      "to": "3",
+      "at": "2026-11-21T22:09:54.279Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -83,12 +91,12 @@
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 21
+      "value": 22
     },
     {
       "id": "weekend-warrior",
-      "tier": 2,
-      "value": 44
+      "tier": 3,
+      "value": 45
     },
     {
       "id": "gate-opener",
@@ -143,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 124
+      "value": 129
     },
     {
       "id": "daily-grinder",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 0,
@@ -404,5 +417,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-20T23:03:33.370Z"
+  "syncedAt": "2026-11-21T22:09:54.279Z"
 }
