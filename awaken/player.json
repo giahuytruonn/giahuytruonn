@@ -86,12 +86,12 @@
     {
       "id": "night-owl",
       "tier": 2,
-      "value": 36
+      "value": 38
     },
     {
       "id": "early-bird",
       "tier": 1,
-      "value": 20
+      "value": 17
     },
     {
       "id": "weekend-warrior",
@@ -186,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-26",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-25",
         "cleared": 1,
@@ -439,5 +444,5 @@
       "streak"
     ]
   },
-  "syncedAt": "2026-11-26T00:58:44.034Z"
+  "syncedAt": "2026-11-27T00:59:47.156Z"
 }
